@@ -1,0 +1,3 @@
+rootProject.name = 'reacting_init_new'
+
+include ':app'
